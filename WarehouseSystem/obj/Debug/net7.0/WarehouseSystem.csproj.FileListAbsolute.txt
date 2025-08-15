@@ -1,0 +1,15 @@
+/Users/brian/github_repos/dcit318-assignment3-11353226/WarehouseSystem/bin/Debug/net7.0/WarehouseSystem
+/Users/brian/github_repos/dcit318-assignment3-11353226/WarehouseSystem/bin/Debug/net7.0/WarehouseSystem.deps.json
+/Users/brian/github_repos/dcit318-assignment3-11353226/WarehouseSystem/bin/Debug/net7.0/WarehouseSystem.runtimeconfig.json
+/Users/brian/github_repos/dcit318-assignment3-11353226/WarehouseSystem/bin/Debug/net7.0/WarehouseSystem.dll
+/Users/brian/github_repos/dcit318-assignment3-11353226/WarehouseSystem/bin/Debug/net7.0/WarehouseSystem.pdb
+/Users/brian/github_repos/dcit318-assignment3-11353226/WarehouseSystem/obj/Debug/net7.0/WarehouseSystem.csproj.AssemblyReference.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/WarehouseSystem/obj/Debug/net7.0/WarehouseSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian/github_repos/dcit318-assignment3-11353226/WarehouseSystem/obj/Debug/net7.0/WarehouseSystem.AssemblyInfoInputs.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/WarehouseSystem/obj/Debug/net7.0/WarehouseSystem.AssemblyInfo.cs
+/Users/brian/github_repos/dcit318-assignment3-11353226/WarehouseSystem/obj/Debug/net7.0/WarehouseSystem.csproj.CoreCompileInputs.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/WarehouseSystem/obj/Debug/net7.0/WarehouseSystem.dll
+/Users/brian/github_repos/dcit318-assignment3-11353226/WarehouseSystem/obj/Debug/net7.0/refint/WarehouseSystem.dll
+/Users/brian/github_repos/dcit318-assignment3-11353226/WarehouseSystem/obj/Debug/net7.0/WarehouseSystem.pdb
+/Users/brian/github_repos/dcit318-assignment3-11353226/WarehouseSystem/obj/Debug/net7.0/WarehouseSystem.genruntimeconfig.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/WarehouseSystem/obj/Debug/net7.0/ref/WarehouseSystem.dll

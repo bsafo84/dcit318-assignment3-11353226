@@ -1,4 +1,4 @@
-# DCIT 318 - Programming II Assignment Solutions
+# DCIT 318 - Programming II Assignment
 
 This repository contains complete console application implementations for all 5 assignment questions in C#, demonstrating advanced programming concepts including:
 

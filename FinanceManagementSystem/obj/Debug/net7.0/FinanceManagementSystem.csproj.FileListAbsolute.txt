@@ -1,0 +1,15 @@
+/Users/brian/github_repos/dcit318-assignment3-11353226/FinanceManagementSystem/bin/Debug/net7.0/FinanceManagementSystem
+/Users/brian/github_repos/dcit318-assignment3-11353226/FinanceManagementSystem/bin/Debug/net7.0/FinanceManagementSystem.deps.json
+/Users/brian/github_repos/dcit318-assignment3-11353226/FinanceManagementSystem/bin/Debug/net7.0/FinanceManagementSystem.runtimeconfig.json
+/Users/brian/github_repos/dcit318-assignment3-11353226/FinanceManagementSystem/bin/Debug/net7.0/FinanceManagementSystem.dll
+/Users/brian/github_repos/dcit318-assignment3-11353226/FinanceManagementSystem/bin/Debug/net7.0/FinanceManagementSystem.pdb
+/Users/brian/github_repos/dcit318-assignment3-11353226/FinanceManagementSystem/obj/Debug/net7.0/FinanceManagementSystem.csproj.AssemblyReference.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/FinanceManagementSystem/obj/Debug/net7.0/FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian/github_repos/dcit318-assignment3-11353226/FinanceManagementSystem/obj/Debug/net7.0/FinanceManagementSystem.AssemblyInfoInputs.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/FinanceManagementSystem/obj/Debug/net7.0/FinanceManagementSystem.AssemblyInfo.cs
+/Users/brian/github_repos/dcit318-assignment3-11353226/FinanceManagementSystem/obj/Debug/net7.0/FinanceManagementSystem.csproj.CoreCompileInputs.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/FinanceManagementSystem/obj/Debug/net7.0/FinanceManagementSystem.dll
+/Users/brian/github_repos/dcit318-assignment3-11353226/FinanceManagementSystem/obj/Debug/net7.0/refint/FinanceManagementSystem.dll
+/Users/brian/github_repos/dcit318-assignment3-11353226/FinanceManagementSystem/obj/Debug/net7.0/FinanceManagementSystem.pdb
+/Users/brian/github_repos/dcit318-assignment3-11353226/FinanceManagementSystem/obj/Debug/net7.0/FinanceManagementSystem.genruntimeconfig.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/FinanceManagementSystem/obj/Debug/net7.0/ref/FinanceManagementSystem.dll

@@ -1,0 +1,15 @@
+/Users/brian/github_repos/dcit318-assignment3-11353226/HealthcareSystem/bin/Debug/net7.0/HealthcareSystem
+/Users/brian/github_repos/dcit318-assignment3-11353226/HealthcareSystem/bin/Debug/net7.0/HealthcareSystem.deps.json
+/Users/brian/github_repos/dcit318-assignment3-11353226/HealthcareSystem/bin/Debug/net7.0/HealthcareSystem.runtimeconfig.json
+/Users/brian/github_repos/dcit318-assignment3-11353226/HealthcareSystem/bin/Debug/net7.0/HealthcareSystem.dll
+/Users/brian/github_repos/dcit318-assignment3-11353226/HealthcareSystem/bin/Debug/net7.0/HealthcareSystem.pdb
+/Users/brian/github_repos/dcit318-assignment3-11353226/HealthcareSystem/obj/Debug/net7.0/HealthcareSystem.csproj.AssemblyReference.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/HealthcareSystem/obj/Debug/net7.0/HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian/github_repos/dcit318-assignment3-11353226/HealthcareSystem/obj/Debug/net7.0/HealthcareSystem.AssemblyInfoInputs.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/HealthcareSystem/obj/Debug/net7.0/HealthcareSystem.AssemblyInfo.cs
+/Users/brian/github_repos/dcit318-assignment3-11353226/HealthcareSystem/obj/Debug/net7.0/HealthcareSystem.csproj.CoreCompileInputs.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/HealthcareSystem/obj/Debug/net7.0/HealthcareSystem.dll
+/Users/brian/github_repos/dcit318-assignment3-11353226/HealthcareSystem/obj/Debug/net7.0/refint/HealthcareSystem.dll
+/Users/brian/github_repos/dcit318-assignment3-11353226/HealthcareSystem/obj/Debug/net7.0/HealthcareSystem.pdb
+/Users/brian/github_repos/dcit318-assignment3-11353226/HealthcareSystem/obj/Debug/net7.0/HealthcareSystem.genruntimeconfig.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/HealthcareSystem/obj/Debug/net7.0/ref/HealthcareSystem.dll

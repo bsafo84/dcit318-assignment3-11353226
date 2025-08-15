@@ -1,0 +1,15 @@
+/Users/brian/github_repos/dcit318-assignment3-11353226/SchoolGradingSystem/bin/Debug/net7.0/SchoolGradingSystem
+/Users/brian/github_repos/dcit318-assignment3-11353226/SchoolGradingSystem/bin/Debug/net7.0/SchoolGradingSystem.deps.json
+/Users/brian/github_repos/dcit318-assignment3-11353226/SchoolGradingSystem/bin/Debug/net7.0/SchoolGradingSystem.runtimeconfig.json
+/Users/brian/github_repos/dcit318-assignment3-11353226/SchoolGradingSystem/bin/Debug/net7.0/SchoolGradingSystem.dll
+/Users/brian/github_repos/dcit318-assignment3-11353226/SchoolGradingSystem/bin/Debug/net7.0/SchoolGradingSystem.pdb
+/Users/brian/github_repos/dcit318-assignment3-11353226/SchoolGradingSystem/obj/Debug/net7.0/SchoolGradingSystem.csproj.AssemblyReference.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/SchoolGradingSystem/obj/Debug/net7.0/SchoolGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian/github_repos/dcit318-assignment3-11353226/SchoolGradingSystem/obj/Debug/net7.0/SchoolGradingSystem.AssemblyInfoInputs.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/SchoolGradingSystem/obj/Debug/net7.0/SchoolGradingSystem.AssemblyInfo.cs
+/Users/brian/github_repos/dcit318-assignment3-11353226/SchoolGradingSystem/obj/Debug/net7.0/SchoolGradingSystem.csproj.CoreCompileInputs.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/SchoolGradingSystem/obj/Debug/net7.0/SchoolGradingSystem.dll
+/Users/brian/github_repos/dcit318-assignment3-11353226/SchoolGradingSystem/obj/Debug/net7.0/refint/SchoolGradingSystem.dll
+/Users/brian/github_repos/dcit318-assignment3-11353226/SchoolGradingSystem/obj/Debug/net7.0/SchoolGradingSystem.pdb
+/Users/brian/github_repos/dcit318-assignment3-11353226/SchoolGradingSystem/obj/Debug/net7.0/SchoolGradingSystem.genruntimeconfig.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/SchoolGradingSystem/obj/Debug/net7.0/ref/SchoolGradingSystem.dll

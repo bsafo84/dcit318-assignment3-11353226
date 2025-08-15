@@ -1,0 +1,15 @@
+/Users/brian/github_repos/dcit318-assignment3-11353226/InventorySystem/bin/Debug/net7.0/InventorySystem
+/Users/brian/github_repos/dcit318-assignment3-11353226/InventorySystem/bin/Debug/net7.0/InventorySystem.deps.json
+/Users/brian/github_repos/dcit318-assignment3-11353226/InventorySystem/bin/Debug/net7.0/InventorySystem.runtimeconfig.json
+/Users/brian/github_repos/dcit318-assignment3-11353226/InventorySystem/bin/Debug/net7.0/InventorySystem.dll
+/Users/brian/github_repos/dcit318-assignment3-11353226/InventorySystem/bin/Debug/net7.0/InventorySystem.pdb
+/Users/brian/github_repos/dcit318-assignment3-11353226/InventorySystem/obj/Debug/net7.0/InventorySystem.csproj.AssemblyReference.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/InventorySystem/obj/Debug/net7.0/InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian/github_repos/dcit318-assignment3-11353226/InventorySystem/obj/Debug/net7.0/InventorySystem.AssemblyInfoInputs.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/InventorySystem/obj/Debug/net7.0/InventorySystem.AssemblyInfo.cs
+/Users/brian/github_repos/dcit318-assignment3-11353226/InventorySystem/obj/Debug/net7.0/InventorySystem.csproj.CoreCompileInputs.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/InventorySystem/obj/Debug/net7.0/InventorySystem.dll
+/Users/brian/github_repos/dcit318-assignment3-11353226/InventorySystem/obj/Debug/net7.0/refint/InventorySystem.dll
+/Users/brian/github_repos/dcit318-assignment3-11353226/InventorySystem/obj/Debug/net7.0/InventorySystem.pdb
+/Users/brian/github_repos/dcit318-assignment3-11353226/InventorySystem/obj/Debug/net7.0/InventorySystem.genruntimeconfig.cache
+/Users/brian/github_repos/dcit318-assignment3-11353226/InventorySystem/obj/Debug/net7.0/ref/InventorySystem.dll
